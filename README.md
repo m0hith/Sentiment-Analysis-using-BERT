@@ -13,3 +13,6 @@
 - Conducted an extensive analysis of the model's performance, including evaluating the model's accuracy, epoch wise loss reports, and running times.
 
 - Documented the entire project, including the data preprocessing, fine-tuning process, evaluation metrics, and model deployment, ensuring easy replication by others and future reference.
+
+### Dataset:
+Large Movie Review Dataset. This is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. We provide a set of 25,000 highly polar movie reviews for training, and 25,000 for testing. There is additional unlabeled data for use as well.
