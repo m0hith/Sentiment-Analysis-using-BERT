@@ -2,7 +2,7 @@
 ### Sentiment analysis model using the BERT (Bidirectional Encoder Representations from Transformers) model used to parse movie reviews and classify their sentiment (according to whether they are positive or negative)
 
 - Work done as part of **ECE-GY 7123: Deep Learning** course offered by Department of ECE, NYU Tandon School of Engineering.
-- Independently developed a sentiment analysis model using the BERT algorithm, which achieved an accuracy rate of 91% on a public IMDB Movie Reviews dataset.
+- Independently developed a sentiment analysis model using the BERT algorithm, which achieved an accuracy rate of 92% on a public IMDB Movie Reviews dataset.
 
 - Conducted the data preprocessing by encoding text into vector-style representations using tokenization, and also maintaining consistent case-sensitivity. 
 
